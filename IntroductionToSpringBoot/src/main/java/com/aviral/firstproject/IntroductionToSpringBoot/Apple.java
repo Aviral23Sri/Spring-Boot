@@ -1,8 +1,10 @@
 package com.aviral.firstproject.IntroductionToSpringBoot;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+//@Component
+//@Service
 public class Apple {
 
     void eatApple(){
